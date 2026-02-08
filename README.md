@@ -1,1 +1,1 @@
-# Olympic-Games-Data-Analysis
+Analytical exploration of Olympics historical data using Pandas DataFrames. Focuses on data cleaning, categorical normalization, and aggregation operations to compute medal counts and country-wise performance. Uses filtering, sorting, and grouping to identify trends across events and years. Outputs structured insights on athlete and nation performance.
